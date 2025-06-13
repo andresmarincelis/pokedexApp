@@ -8,9 +8,13 @@ Este proyecto es ideal para practicar consumo de APIs, manejo de estados y naveg
 ## 🚀 Características
 
 ✅ Listado de Pokémon con scroll infinito.
+
 ✅ Búsqueda de Pokémon por nombre o numero de pokémon. 
+
 ✅ Detalle de cada Pokémon: imagen, tipo, estadísticas base, habilidades  
+
 ✅ Navegación entre pantallas con Stack Navigator  
+
 ✅ Diseño simple, limpio y adaptable a dispositivos móviles
 
 ---
