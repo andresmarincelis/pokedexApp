@@ -28,24 +28,6 @@ Este proyecto es ideal para practicar consumo de APIs, manejo de estados y naveg
 
 ---
 
-## 📦 Instalación
-
-1️⃣ Clona el repositorio  
-git clone https://github.com/tu-usuario/tu-repo-pokedex.git  
-cd tu-repo-pokedex
-
-2️⃣ Instala las dependencias  
-npm install  
-# o  
-yarn
-
-3️⃣ Corre la aplicación  
-npx expo start  
-# o  
-npx react-native run-android  
-npx react-native run-ios
-
-
 ## 🤝 Contribuciones
 
 Este proyecto es educativo y abierto a mejoras.  
